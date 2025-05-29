@@ -174,6 +174,12 @@ sort file.name
 - youtube video guide
 
 # 4 neovim
+Quick recap
+- motions
+- frictionless
+
+all you need is Telescope.nvim
+but it helps to have Obsidian.nvim 
 
 
 

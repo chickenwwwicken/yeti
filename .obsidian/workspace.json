@@ -4,44 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "8e58481835a98ce6",
-        "type": "tabs",
+        "id": "7ccf52a4de2586cd",
+        "type": "split",
         "children": [
           {
-            "id": "8ba6617fbe5e3e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. inbox/second-brain-devops.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "second-brain-devops"
-            }
-          }
-        ]
-      },
-      {
-        "id": "800fc08a22c5bd1d",
-        "type": "tabs",
-        "children": [
+            "id": "8e58481835a98ce6",
+            "type": "tabs",
+            "dimension": 33.232016210739616,
+            "children": [
+              {
+                "id": "8ba6617fbe5e3e0d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. resources/vim/vim-kickstart-remaps.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "vim-kickstart-remaps"
+                }
+              }
+            ]
+          },
           {
-            "id": "fe223a29e46c6337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. resources/obsidian/obsidian-uri.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "obsidian-uri"
-            }
+            "id": "0065be23fe57478c",
+            "type": "tabs",
+            "dimension": 33.43465045592705,
+            "children": [
+              {
+                "id": "9c8955e9899dbfb1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. areas/vim/kickstart-nvim/kickstart-guide.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "kickstart-guide"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2a8aea7def6be4e6",
+            "type": "tabs",
+            "dimension": 33.33333333333333,
+            "children": [
+              {
+                "id": "17a59261ef7e314c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. resources/vim/vim-my-remaps.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "vim-my-remaps"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -188,31 +218,38 @@
   },
   "active": "8ba6617fbe5e3e0d",
   "lastOpenFiles": [
-    "2. areas/areas.md",
+    "2. areas/vim/kickstart-nvim/kickstart-guide.md",
+    "3. resources/vim/vim-commands.md",
+    "3. resources/vim/vim-kickstart-remaps.md",
+    "2. areas/vim/kickstart-nvim",
+    "3. resources/vim/vim-my-remaps.md",
     "0. inbox/second-brain-devops.md",
+    "0. inbox/todo.md",
+    "1. proyects/emopop/gimmeteest.md",
+    "2. areas/vim/vim-user-manual.md",
+    "2. areas/vim/vim-user-manual-notes.md",
+    "2. areas/vim/nvim-backup/nvim/plugin/packer_compiled.lua",
+    "2. areas/vim/nvim-backup/nvim/plugin",
+    "2. areas/vim/nvim-backup/nvim/lua/chicken/set.lua",
+    "2. areas/vim/nvim-backup/nvim/lua/chicken/remap.lua",
+    "2. areas/vim/nvim-backup/nvim/lua/chicken/packer.lua",
+    "2. areas/vim/nvim-backup/nvim/lua/chicken/init.lua",
+    "2. areas/vim/nvim-backup/nvim/lua/chicken",
+    "2. areas/vim/nvim-backup/nvim/lua",
+    "2. areas/vim/nvim-backup/nvim/init.lua",
+    "2. areas/areas.md",
     "3. resources/index-resources.md",
     "3. resources/obsidian/obsidian-uri.md",
     "3. resources/obsidian/create-file-from-template.md",
     "3. resources/new-resource.md",
     "2. areas/music/shintaro.md",
-    "2. areas/philosopy",
-    "2. areas/art",
-    "2. areas/music",
     "1. proyects/emopop/index-emopop.md",
-    "1. proyects/emopop/gimmeteest.md",
     "templates/Untitled.md",
     "templates/rsrc.md",
     "templates/area.md",
     "templates/proyect.md",
-    "3. resources/arch",
-    "3. resources/vim",
-    "3. resources/go",
-    "3. resources/python",
-    "3. resources/git",
-    "3. resources/obsidian",
     "1. proyects/proyects.md",
     "1. proyects/la-garza/index-la-garza.md",
-    "1. proyects/emopop",
     "testfile.md",
     "Welcome.md"
   ]

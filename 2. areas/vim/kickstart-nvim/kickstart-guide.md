@@ -37,4 +37,10 @@ That's it! Lazy will install all the plugins you have.
 Use `:Lazy` to view the current plugin status.
 Hit `q` to close the window
 ### RTFM
-Read through the `init.lua` file in your configuration folder for more information about extending and exploring nvim. That also includes examples examples of adding popularly requested plugins.
+Read through the `init.lua` file in your configuration folder for more information about extending and exploring nvim. That also includes examples examples of adding popularly requested plugins
+
+### Custom plugins
+`/home/chicken/.config/nvim/lua/custom/plugins/init.lua` 
+you can add your plugins in this file.
+or a detailed index of plugins + their configs here: [[lazy-package-manager]]
+

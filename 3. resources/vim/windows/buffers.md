@@ -1,5 +1,6 @@
 # Buffers
 `:close` - close current buffer
+`:clo` - close current buffer
 `CTRL+W c` - close current buffer
 
 A buffer can be in one of three states:

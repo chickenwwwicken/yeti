@@ -181,6 +181,7 @@ Quick recap
 all you need is Telescope.nvim
 but it helps to have Obsidian.nvim 
 
+[[2. areas/vim/plugins/obsidian|obsidian.nvim]]
 
 
 

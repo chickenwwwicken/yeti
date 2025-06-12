@@ -1,3 +1,9 @@
+---
+id: arch-mpd
+aliases: []
+tags: []
+---
+
 (music player daemon)
 
 ##### Installation

@@ -1,3 +1,9 @@
+---
+id: kickstart-guide
+aliases: []
+tags: []
+---
+
 kickstart.nvim targets only the latest 'stable' and latest 'nightly' of Neovim. 
 
 ### Install External Dependencies

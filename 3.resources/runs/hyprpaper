@@ -1,0 +1,2 @@
+#!/bin/zsh
+sudo pacman -S --needed ninja gcc wayland-protocols libjpeg-turbo libwebp libjxl pango cairo pkgconf cmake libglvnd wayland hyprutils hyprwayland-scanner hyprlang

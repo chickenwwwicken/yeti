@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"57245def0cc24bd2","type":"text","text":"# ROUTER\n\nPROTECTLI VAULT\n\nProtecting your Network\n- IDS/IPS\n\t- Snort\n- PF blocker NG\n- Dynamic DNS\n- Send all network to VPN","x":-1880,"y":0,"width":440,"height":320},
+		{"id":"958e8206b731eec6","type":"file","file":"02areas/homesys/isp/INFINITUM.md","x":-2560,"y":-40,"width":400,"height":400},
+		{"id":"305f29a0b466cd13","type":"text","text":"# pfSense (software)\n\nProtecting your Network\n- IDS/IPS\n\t- Snort\n- PF blocker NG\n- Dynamic DNS\n- Send all network to VPN","x":-1842,"y":440,"width":365,"height":320},
+		{"id":"2d8e1605be185b86","type":"text","text":"# pfSense setup\n\n### pfSense Setup\n\n1. The basics\n\t1. What you need\n\t2. Install\n2. Super FAST config\n","x":-1842,"y":840,"width":365,"height":320},
+		{"id":"b1c5c6ededa87d0a","type":"text","text":"# Managed Switch\n\nTP-LINK TL-SG108E\n8-PORT GIGABIT","x":-1280,"y":0,"width":440,"height":320},
+		{"id":"5166b9cd54d95dad","type":"text","text":"# RASPBERRY PI\n\n","x":-400,"y":60,"width":440,"height":200},
+		{"id":"0bc9b99b825c3c95","type":"file","file":"02areas/homesys/hardware/MSI1/MSI1.md","x":-400,"y":-900,"width":440,"height":380},
+		{"id":"686510771dc69cf8","type":"file","file":"02areas/homesys/UMBREL_APPS/umbrel1.md","x":-400,"y":-360,"width":440,"height":280},
+		{"id":"59c501a1cc02814e","type":"file","file":"02areas/homesys/UMBREL_APPS/Ord Wallet.md","x":400,"y":-440,"width":400,"height":200},
+		{"id":"12665f016b2221a5","type":"file","file":"02areas/homesys/UMBREL_APPS/Sparrow Wallet.md","x":400,"y":-220,"width":400,"height":180},
+		{"id":"8ae74485b47bb026","type":"file","file":"02areas/homesys/UMBREL_APPS/Bitcoin Node.md","x":400,"y":-20,"width":400,"height":200},
+		{"id":"ddb72f6e70f010d7","type":"file","file":"02areas/homesys/UMBREL_APPS/TRAC.md","x":400,"y":200,"width":400,"height":400},
+		{"id":"3128db7b436516a6","type":"text","text":"# DOXXNET\n\n","x":-400,"y":440,"width":440,"height":200},
+		{"id":"725725249fcc57e5","type":"text","text":"# EXTRA\n\n","x":-400,"y":900,"width":440,"height":200},
+		{"id":"efcd8a2280af4a8e","type":"file","file":"02areas/homesys/isp/IP_Addresses.md","x":-2680,"y":-820,"width":640,"height":600},
+		{"id":"e6a0ba80b36b1aac","type":"file","file":"02areas/homesys/isp/PFSense x Protectli Vault.md","x":-1880,"y":-820,"width":440,"height":680},
+		{"id":"662bbb91e516a8df","type":"file","file":"01projects/jpg/tech/linux/3_mint/1.1_install.md","x":400,"y":-920,"width":400,"height":400},
+		{"id":"2b78b4c934d61fe8","x":400,"y":-1360,"width":400,"height":400,"type":"file","file":"02areas/homesys/hardware/MSI1/MSI-BIOS-update.md"}
+	],
+	"edges":[
+		{"id":"5296a3e03b3db9ad","fromNode":"958e8206b731eec6","fromSide":"right","toNode":"57245def0cc24bd2","toSide":"left","label":"WAN"},
+		{"id":"282c6a1e08f96552","fromNode":"57245def0cc24bd2","fromSide":"bottom","toNode":"305f29a0b466cd13","toSide":"top"},
+		{"id":"88ebe8f0be27c3c4","fromNode":"305f29a0b466cd13","fromSide":"bottom","toNode":"2d8e1605be185b86","toSide":"top"},
+		{"id":"cb2e1fb3ae1a456a","fromNode":"57245def0cc24bd2","fromSide":"right","toNode":"b1c5c6ededa87d0a","toSide":"left","label":"1"},
+		{"id":"d6607059277d14cc","fromNode":"b1c5c6ededa87d0a","fromSide":"right","toNode":"5166b9cd54d95dad","toSide":"left","color":"4","label":"4"},
+		{"id":"75b9ba204d3c7786","fromNode":"b1c5c6ededa87d0a","fromSide":"right","toNode":"3128db7b436516a6","toSide":"left","color":"1","label":"5"},
+		{"id":"fe0c75904cc6cad8","fromNode":"b1c5c6ededa87d0a","fromSide":"right","toNode":"725725249fcc57e5","toSide":"left","color":"1","label":"6"},
+		{"id":"9b6559ebdb9e06a9","fromNode":"b1c5c6ededa87d0a","fromSide":"right","toNode":"0bc9b99b825c3c95","toSide":"left","color":"4","label":"2"},
+		{"id":"b77156899503683d","fromNode":"b1c5c6ededa87d0a","fromSide":"right","toNode":"686510771dc69cf8","toSide":"left","color":"4","label":"3"},
+		{"id":"d2bb2201c350c803","fromNode":"686510771dc69cf8","fromSide":"right","toNode":"59c501a1cc02814e","toSide":"left"},
+		{"id":"65818aed82269096","fromNode":"686510771dc69cf8","fromSide":"right","toNode":"12665f016b2221a5","toSide":"left"},
+		{"id":"88b21c69d012fff5","fromNode":"686510771dc69cf8","fromSide":"right","toNode":"8ae74485b47bb026","toSide":"left"},
+		{"id":"3fcdf80061faa182","fromNode":"686510771dc69cf8","fromSide":"right","toNode":"ddb72f6e70f010d7","toSide":"left"},
+		{"id":"36b48b07ba7b0af1","fromNode":"efcd8a2280af4a8e","fromSide":"bottom","toNode":"958e8206b731eec6","toSide":"top"},
+		{"id":"714c1d25c6114dd5","fromNode":"57245def0cc24bd2","fromSide":"top","toNode":"e6a0ba80b36b1aac","toSide":"bottom"},
+		{"id":"ad58466c001e4302","fromNode":"0bc9b99b825c3c95","fromSide":"right","toNode":"662bbb91e516a8df","toSide":"left"},
+		{"id":"e54adb546592abfd","fromNode":"0bc9b99b825c3c95","fromSide":"right","toNode":"2b78b4c934d61fe8","toSide":"left"}
+	]
+}

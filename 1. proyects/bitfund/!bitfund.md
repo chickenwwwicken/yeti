@@ -1,3 +1,0 @@
-- [ ] seguimiento balderas
-- [ ] escuela bitcoin
-- [ ] 

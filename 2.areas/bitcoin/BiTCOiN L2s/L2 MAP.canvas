@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"361c4c0086bc2f70","type":"text","text":"# STACKS","x":-460,"y":-300,"width":250,"height":60},
+		{"id":"8d958a6937ddb1b8","type":"text","text":"MARKET LEADER iN BTC L2 ES\n\nBUiLT THEYRE OWN VM (ViRTUAL MACHINE) AND OWN LANGUAGE \"CLARiTY\"\n\nGOiNG TO LAUNCH THE NAKAMOTO RELEASE BEFORE HALVING\n\nNAKAMOTO RELEASE WiLL iNTRODUCE TWO PEGGiNG SYSTEM CALLED sBTC WHiCH WiLL USE BTC AS A DA (DATA AVAiLABiLiTY) LAYER ,  AND TXs ON STACKS WiLL BE SECURED BY BTC \n\nTWO WAY PEGGiNG CONSiDERED THE MOSR SECURE AND DECENTRALiSED APPROACH FOR BTC SCALiNG\n\n","x":-567,"y":-220,"width":465,"height":640},
+		{"id":"74b6003f3ed403ee","type":"text","text":"# ROOTSTOCK","x":47,"y":-300,"width":250,"height":60},
+		{"id":"02f55913f052267d","type":"text","text":"OG BTC L2 iN THE SPACE , \n\nTHEY USE MERGE MiNiNG FOR SECURiTY \n\nEVM COMPATiBLE CHAiN THAT ALLOWS ETH DEVS TO BUiLD ON BTC , \n\nTHEY ALSO BUiLDiNG A ROLLUP CALLED RiF\n\n![[Pasted image 20240326125334.jpg]]","x":-60,"y":-220,"width":465,"height":640},
+		{"id":"bdeaf835df58c018","type":"text","text":"# ZEROSYNC","x":567,"y":-300,"width":250,"height":60},
+		{"id":"2c657e2fbf906dc8","type":"text","text":"THEY BUiLDiNG ZK-PROOFS FOR BTC , ALSO CONSTRUCTING A TRUST-MiNiMiZED BRiDGE BETWEEN BC AND BTC L2s\n\nTHEY'VE BUiLT THE \"HEADER PROOF CHAIN\"  , WHiCH iS THE FIRST ZK-CLIENT FOR BTC\n\n ![[Pasted image 20240326125308.jpg]]","x":460,"y":-220,"width":465,"height":640},
+		{"id":"32f66ba4f9dfd81c","type":"text","text":"BOTANIX IS RUNNING ON THE TESTNET , PLANNING TO LAUCH THE MAINNET IN THE COMING MONTHS . \n\nTHEY'RE TRYING TO SOLVE BITCOIN SCALING USING A NOVEL DESIGN CALLED SPIDERCHAIN , WHICH USES TWO-WAY PEGGING BETWEEN MULTIPLE MULTISIG CONTRACTS TO SETTLE TRANSACTIONS ON BTC!\n\n![[Pasted image 20240326125603.jpg]]","x":-567,"y":540,"width":465,"height":640},
+		{"id":"f9233a66e1e8bc21","type":"text","text":"# CYTREA","x":47,"y":460,"width":250,"height":60},
+		{"id":"d353ac48c2367ebc","type":"text","text":"CITREA IS BUILDING A ZKROLLUP USING THE BITVM DESIGN , WHICH EMPLOYS OPTIMISTIC EXECUTION OF ZK-PROOFS . \n\nTHIS MAKES THEM A HYBRID DESIGN COMBINING THE BEST OF OPTIMISTIC AND ZK ROLLUPS\n\nCURRENTLY AT THE PRE-TESTNET STAGE . \n\n![[Pasted image 20240326125837.jpg]]","x":-60,"y":540,"width":465,"height":640},
+		{"id":"6aeacc82046dab18","type":"text","text":"# KASARLABS","x":567,"y":460,"width":250,"height":60},
+		{"id":"cb284538c9f4bc79","type":"text","text":"A TEAM OF HARDCORE STARKNET ENGINEERS AND THEY BUILT A ROLLUP CALLED BARKNET , LEVERAGING THE CAIRO VM. \n\nUSES BTC AS DA\n\n[BARKNET](https://github.com/KasarLabs/barknet)\n\n","x":460,"y":540,"width":465,"height":640},
+		{"id":"d3742c689b512190","type":"text","text":"# BOTANIX LABS","x":-474,"y":460,"width":280,"height":60},
+		{"id":"4ae3b47faaa480b0","type":"text","text":"BUILDING A NETWORK OF MODULAR BTC ROLLUPS CALLED \"BITCOINOS\" \n\nLOOKS VERY AMBITIOUS , USING A MODULAR ARCHITECTURE TO SCALE BTC . \n\nPRE-TESTNET STAGE RN\n\n![[Pasted image 20240326131352.jpg]]","x":-566,"y":1320,"width":465,"height":640},
+		{"id":"97d351661a7f3ef3","type":"text","text":"# SYSCOIN","x":47,"y":1240,"width":250,"height":60},
+		{"id":"7c72edf765c6abcd","type":"text","text":"OG BTC SIDECHAIN , \n\nBUILDING AN OP ROLLUP CALLED ROLLUX \n\nIT WILL LEVERAGE SYSCOIN AS THE DA AND SETTLEMENT LAYER . \n\n![[Pasted image 20240326131511.jpg]]","x":-60,"y":1320,"width":465,"height":640},
+		{"id":"d28c1dbe176eb5d3","type":"text","text":"# SOVRYN","x":-473,"y":1240,"width":280,"height":60},
+		{"id":"3fb4c3a664a13d39","type":"text","text":"MOST HYPED BTC SCALING PROJECT TO DATE , \n\nTHEY BUILDING A BTC RESTAKING PROTOCOL , WHICH COULD BE USED AS A LAUNCHPAD FOR BITCOIN ROLLUPS , BRIDGES AND MORE\n\n[GUIDE TO STAKING BTC ON BABYLON](https://twitter.com/Axel_bitblaze69/status/1762875124691472489) ","x":461,"y":1320,"width":465,"height":640},
+		{"id":"e0794b215b8066ea","type":"text","text":"# BABYLON CHAIN ","x":548,"y":1240,"width":292,"height":60},
+		{"id":"75268ea78dc96f46","type":"text","text":"# MERLIN","x":1107,"y":460,"width":250,"height":60},
+		{"id":"0d617fa3094677d2","type":"text","text":"MERLIN CHAIN HAS BUILT A BRIDGE BETWEEN BITCOIN AND EVM CHAINS AND THEY DEVVING A ZKROLLUP ON BTC\n\nPEOPLE HYPED ABT FARMING $MERL IDO LIKE CRAZY , AS OVER $1.69B WORTH OF BTC HAS BEEN DEPOSITED ON MERLIN SEAL\n\nTHE IDO MARKET CAP FOR MERL IS EXPECTED TO BE 100K\n\n![[Pasted image 20240326132416.jpg]]","x":1000,"y":540,"width":465,"height":640},
+		{"id":"1bcfca2998cebb28","type":"text","text":"# FRACTAL","x":1107,"y":1240,"width":250,"height":60}
+	],
+	"edges":[]
+}

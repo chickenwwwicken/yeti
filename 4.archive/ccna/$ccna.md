@@ -1,0 +1,5 @@
+- [ ] [[$ccna-cisco-certification]] - Networks certification
+- [ ] [[$comptia-network+-N10-008-exam]] - Comptia Network+ exam 1
+- [ ] [[$comptia-network+-N10-009-exam]] - Comptia Network+ exam 2
+- [ ] [[$comptia-security+-SY0-701-exam]] - Comptia Security+ exam 2
+- [ ] [[$comptia-security+-SY0-601-exam]] - Comptia Security+ exam 1

@@ -1,0 +1,3 @@
+![[shigetaka176.png]]
+![[softbank-emoji-1997-emojipedia.jpg]]![[shigetaka-176-emoji.jpg]]![[pornhub-emojis.png]]![[pistol-emojis-emojipedia.jpg]]![[msn-messenger-emoticons.jpg]]![[emoji-history-type-labo-typeface-1984.jpg]]![[1. proyects/emopop/media/emoji-timeline/emoji-history-sharp-pi-4000-emoji-table-16-16.png]]![[emoji-history-sharp-pa-8500-1988.jpg]]
+![[1. proyects/emopop/media/emoji-timeline/emoji-history-sharp-pa-8500-emoji-table-20-20.png]]

@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"0c04edcb90855de5","type":"text","text":"# PROJECT : What I'm Working on Right Now \n\n**Projects** : Short-term efforts in your work or life that you're working on now.\\\\\n\nProjects have a couple of features that make them an ideal way to organize modern work. \n\n- Have a beginning and an #END \n- Take place during a specific period of time and then #FINISH\n- Have a specific, clear outcome that needs to happen in order for them to #COMPLETE\n\n**Workflow**\\\\\n\"A Project is identified ; a team is assembled ; it works together for precisely as long as is needed to complete the task ; then the team disbands...\"            ","x":-1175,"y":-60,"width":440,"height":560,"color":"#ffffff"},
+		{"id":"fff1e091e78600cb","type":"text","text":"## Personal Projects\n- [ ] [[BUILDING A SECOND BRAIN.canvas|BUILDING A SECOND BRAIN]]\n- [ ] [[aaCrypto]]\n- [ ] [[aaSAT]]\n- [ ] ","x":-600,"y":-63,"width":355,"height":233,"color":"#570000"},
+		{"id":"31ffb5910967976d","type":"text","text":"## Work Projects\n\n- [ ] [[aaSMASH]]\n- [ ] [[aae-stars]]\n- [ ] \n","x":-600,"y":207,"width":355,"height":233,"color":"#8c0303"},
+		{"id":"55beb2fda8e835ee","type":"text","text":"## Side Projects\n\n- [ ]  ","x":-600,"y":497,"width":355,"height":233,"color":"#db0606"},
+		{"id":"54eeae2e03f374c9","type":"text","text":"### PROJECT : [[aaSAT]]\n### AREA : [[aaFinanzas]]","x":-80,"y":-63,"width":435,"height":143,"color":"#ff5ce9"},
+		{"id":"a965ac853908289e","type":"text","text":"### PROJECT : [[aaCrypto]]\n### AREA : [[aaFinanzas]]","x":-80,"y":117,"width":435,"height":143,"color":"#ff70f3"},
+		{"id":"fbe65f4795dfcea9","type":"text","text":"### PROJECT : [[BUILDING A SECOND BRAIN.canvas|BUILDING A SECOND BRAIN]]\n### AREA : Self-Improvement","x":-80,"y":297,"width":435,"height":143,"color":"3"},
+		{"id":"dcb383b20b9481db","type":"text","text":"### PROJECT : \n### AREA : ","x":-80,"y":477,"width":435,"height":143,"color":"3"},
+		{"id":"c0c7a9502fc855d4","type":"text","text":"### PROJECT : \n### AREA : ","x":-80,"y":657,"width":435,"height":143,"color":"3"},
+		{"id":"935392458580d351","type":"text","text":"### PROJECT : \n### AREA : ","x":-80,"y":837,"width":435,"height":143,"color":"3"},
+		{"id":"a41b133eba9017f9","type":"text","text":"# AREAS : What I'm Committed to Over Time\n  \n**Areas** : What I'm committed to Over Time \\\\ \n - Not everything is a project\n- Finances doesn't have a definite end date.\n- No Final Objective\n- Both Personal and Professional\n\n\nWhile there is no GOAL , There is a #Standard that you want to uphold .\\\\\n\n[[aaSalud]] = Excercise 5 Times x Week\n[[aaFinanzas]] = Provide\n[[aaFamilia]] = 1 x Month","x":520,"y":-63,"width":440,"height":460,"color":"#ffffff"},
+		{"id":"022cf2ba783b49d4","type":"text","text":"# AREAS\n## PERSONAL\n- [[aaKIA_RIO]]\n- [[aaDPTO]]\n\t- [[Recetas]]\n\t- [[Recibos]]\n- [[aaFinanzas]]\n\t- [[aaBanco]]\n\t- [[aaSAT]]\n- [[aaLegal]]\n- [[aaDocs_Importantes]]\n\n\n## PROFESSIONAL\n- [[2.0_Variables]]\n- [[aaCrypto]]\n- [[aae-stars]]\n- [[aaNFTs]]\n- [[aaSMASH]]","x":570,"y":440,"width":340,"height":684,"color":"#e3dbff"},
+		{"id":"c962064fe0b6ad6f","type":"text","text":"# RESOURCES : Things I Want to Reference in Future\n\n**Resources** : Things I Want to Reference in The Future\n\n1. Anything that doesn't belong to a project or an area \n2. Topics you are interested in gathering information about\n\n- What topics are you #interesting in?\n- What subjects are you researching ?\n- What useful information do you want to #Reference ?\n- Which #hobbies or #passions ?\n\nCan also think of them as **research or reference materials**\nTrends you are keeping track of        ","x":1035,"y":-63,"width":460,"height":560,"color":"#ffffff"},
+		{"id":"6cc7a59e3a6661ea","type":"text","text":"# ARCHIVE : Things I've Completed or on Hold \n\n**Archives** : Things I've completed or put on Hold\n\n- #Projects that are completed or canceled\n- #Areas that no longer committed to maintaining\n- #Resources no longer Relevant\n","x":1560,"y":-60,"width":440,"height":340,"color":"#ffffff"},
+		{"id":"99f0573671b0f238","type":"text","text":"## P.A.R.A. #PARA\n\nThere are FOUR main areas of info in our lives :\n\n- Projects : Main Unit of Organization\n- Areas : of Your Life you are Responsible for\n- Resources : Personal Library of References/Facts/Inspiration\n- Archives : \n\nThese Four categories are universal , \nEncompassing *any* kind of information , From *any* source , In *any* format , For *any* purpose \n\nThe idea is to not use only one *software* but to use only one *organizing system*\n\n{Project} Folders will be the SAME NAME in every app or software","x":40,"y":-640,"width":740,"height":380}
+	],
+	"edges":[
+		{"id":"ef5ebf94d8d67ad5","fromNode":"99f0573671b0f238","fromSide":"bottom","toNode":"0c04edcb90855de5","toSide":"top"},
+		{"id":"bbd4c241f98ae443","fromNode":"99f0573671b0f238","fromSide":"bottom","toNode":"a41b133eba9017f9","toSide":"top"},
+		{"id":"f71a8c7b0c11edc7","fromNode":"99f0573671b0f238","fromSide":"bottom","toNode":"c962064fe0b6ad6f","toSide":"top"},
+		{"id":"b3641a4cfe204855","fromNode":"99f0573671b0f238","fromSide":"bottom","toNode":"6cc7a59e3a6661ea","toSide":"top"},
+		{"id":"2692d620f4c13349","fromNode":"fbe65f4795dfcea9","fromSide":"left","toNode":"fff1e091e78600cb","toSide":"right"},
+		{"id":"d649f587a637d700","fromNode":"dcb383b20b9481db","fromSide":"left","toNode":"31ffb5910967976d","toSide":"right"},
+		{"id":"71f273931a534a1e","fromNode":"c0c7a9502fc855d4","fromSide":"left","toNode":"31ffb5910967976d","toSide":"right"},
+		{"id":"341c61679cb026a8","fromNode":"935392458580d351","fromSide":"left","toNode":"55beb2fda8e835ee","toSide":"right"},
+		{"id":"c4f8b093126f90ce","fromNode":"0c04edcb90855de5","fromSide":"right","toNode":"fff1e091e78600cb","toSide":"left"},
+		{"id":"e804889b586ef4f0","fromNode":"0c04edcb90855de5","fromSide":"right","toNode":"31ffb5910967976d","toSide":"left"},
+		{"id":"f738210ba7602090","fromNode":"0c04edcb90855de5","fromSide":"right","toNode":"55beb2fda8e835ee","toSide":"left"},
+		{"id":"aab5cec8091b2cec","fromNode":"a41b133eba9017f9","fromSide":"left","toNode":"54eeae2e03f374c9","toSide":"right"},
+		{"id":"db7072956396ead7","fromNode":"a41b133eba9017f9","fromSide":"left","toNode":"a965ac853908289e","toSide":"right"},
+		{"id":"89b9dd2e1f30605c","fromNode":"a41b133eba9017f9","fromSide":"left","toNode":"fbe65f4795dfcea9","toSide":"right"},
+		{"id":"ba7f5958b0c6111a","fromNode":"a41b133eba9017f9","fromSide":"left","toNode":"dcb383b20b9481db","toSide":"right"},
+		{"id":"6b190147de1dea5e","fromNode":"a41b133eba9017f9","fromSide":"left","toNode":"c0c7a9502fc855d4","toSide":"right"},
+		{"id":"9b2cd292e506daec","fromNode":"a41b133eba9017f9","fromSide":"left","toNode":"935392458580d351","toSide":"right"},
+		{"id":"b67e46b036d576b8","fromNode":"54eeae2e03f374c9","fromSide":"left","toNode":"fff1e091e78600cb","toSide":"right"},
+		{"id":"88cfa69deb5dd879","fromNode":"a965ac853908289e","fromSide":"left","toNode":"fff1e091e78600cb","toSide":"right"}
+	]
+}

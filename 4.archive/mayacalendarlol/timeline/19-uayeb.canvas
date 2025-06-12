@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"e1483744828b9118","type":"text","text":"# 0","x":-4483,"y":-325,"width":63,"height":63},
+		{"id":"1c22db75768a3a00","type":"text","text":"# 1","x":-4483,"y":-62,"width":63,"height":63},
+		{"id":"131820592a7901c7","type":"text","text":"# 2","x":-4483,"y":201,"width":63,"height":63},
+		{"id":"11f39ba37502a44e","type":"text","text":"# 3","x":-4483,"y":465,"width":63,"height":63},
+		{"id":"f0322addd0950947","type":"text","text":"# 4","x":-4483,"y":728,"width":63,"height":63},
+		{"id":"e3e33d53f7023cfd","type":"file","file":"01projects/panic/calendario-maya/media/nombres-dias/0-Imix.gif","x":-4494,"y":-253,"width":85,"height":85},
+		{"id":"d5d780b6edaad8ea","type":"file","file":"01projects/panic/calendario-maya/media/nombres-dias/1-Ik.gif","x":-4494,"y":12,"width":85,"height":85},
+		{"id":"9527bcac5b193c61","type":"file","file":"01projects/panic/calendario-maya/media/nombres-dias/2-akbal.gif","x":-4494,"y":273,"width":85,"height":85},
+		{"id":"b9fda0d35eeafd88","type":"file","file":"01projects/panic/calendario-maya/media/nombres-dias/3-kan.gif","x":-4494,"y":540,"width":85,"height":85},
+		{"id":"4a2a905417b95707","type":"file","file":"01projects/panic/calendario-maya/media/nombres-dias/4-chicchan.gif","x":-4494,"y":804,"width":85,"height":85}
+	],
+	"edges":[
+		{"id":"92ff5786a8f96898","fromNode":"e1483744828b9118","fromSide":"right","toNode":"1c22db75768a3a00","toSide":"left"},
+		{"id":"c68d4320e3171629","fromNode":"1c22db75768a3a00","fromSide":"right","toNode":"131820592a7901c7","toSide":"left"},
+		{"id":"6872ad76bbed2aa1","fromNode":"131820592a7901c7","fromSide":"right","toNode":"11f39ba37502a44e","toSide":"left"},
+		{"id":"dea58d8958a9d9d3","fromNode":"11f39ba37502a44e","fromSide":"right","toNode":"f0322addd0950947","toSide":"left"}
+	]
+}

@@ -1,0 +1,8 @@
+#!/bin/zsh
+ln -s ~/.config/gh ~/arch1-dotfiles/gh
+ln -s ~/.config/nvim ~/arch1-dotfiles/nvim
+ln -s ~/.config/kitty ~/arch1-dotfiles/kitty
+ln -s ~/.config/PabloDraw ~/arch1-dotfiles/PabloDraw
+ln -s ~/.config/waypaper ~/arch1-dotfiles/waypaper
+ln -s ~/.config/inkscape ~/arch1-dotfiles/inkscape
+ln -s ~/.config/obsidian ~/arch1-dotfiles/obsidian

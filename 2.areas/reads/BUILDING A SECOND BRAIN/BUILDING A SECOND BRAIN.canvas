@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"5acad17957a88626","type":"file","file":"02areas/books/BUILDING A SECOND BRAIN/CHAPTER 1.md","x":-600,"y":-640,"width":720,"height":800,"color":"4"},
+		{"id":"cd676974ebcaab3e","type":"file","file":"02areas/books/BUILDING A SECOND BRAIN/CHAPTER 4.md","x":240,"y":-640,"width":720,"height":800,"color":"4"},
+		{"id":"26b6569022405dc8","x":1080,"y":-640,"width":720,"height":800,"color":"4","type":"file","file":"02areas/books/BUILDING A SECOND BRAIN/CHAPTER 5.md"},
+		{"id":"3bd97359ffdf9418","x":1400,"y":240,"width":400,"height":400,"type":"file","file":"02areas/books/BUILDING A SECOND BRAIN/P.A.R.A..canvas"}
+	],
+	"edges":[
+		{"id":"bcfb970c33b622b2","fromNode":"5acad17957a88626","fromSide":"right","toNode":"cd676974ebcaab3e","toSide":"left"},
+		{"id":"d66616b43a9de240","fromNode":"cd676974ebcaab3e","fromSide":"right","toNode":"26b6569022405dc8","toSide":"left"}
+	]
+}

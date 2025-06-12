@@ -1,0 +1,7 @@
+#!usr/bin/env bash
+echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.bashrc
+
+# next, reload your shell configuration
+source ~/.bashrc
+
+bootdev login

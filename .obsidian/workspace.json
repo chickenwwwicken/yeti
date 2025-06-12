@@ -11,46 +11,13 @@
             "id": "9c8955e9899dbfb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. inbox/second-brain-devops.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "second-brain-devops"
-            }
-          },
-          {
-            "id": "525b45ff331f4a90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. proyects/hoy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hoy"
-            }
-          },
-          {
-            "id": "ff6acc9dea4d367d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. resources/vim/vim-kickstart-remaps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vim-kickstart-remaps"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.51103591918945
+    "width": 457.5026054382324
   },
   "right": {
     "id": "ac5a5267332cb556",
@@ -195,46 +162,63 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff6acc9dea4d367d",
+  "active": "194c0dfb3ac9f109",
   "lastOpenFiles": [
-    "3. resources/vim/windows/moving-windows.md",
-    "3. resources/vim/windows/resizing-windows.md~",
-    "3. resources/vim/windows/resizing-windows.md",
-    "3. resources/vim/windows/buffers-windows-tabs.md",
-    "3. resources/vim/windows/buffers.md",
-    "3. resources/vim/windows/split-windows.md",
-    "3. resources/vim/windows/new-window.md",
-    "3. resources/vim/windows",
-    "3. resources/vim/files/move-file.md",
-    "3. resources/vim/files/copy-file.md",
-    "3. resources/vim/files",
-    "3. resources/vim/custom-wrapping-remaps.md",
-    "3. resources/vim/vim-kickstart-remaps.md~",
-    "3. resources/vim/copy-file.md~",
-    "3. resources/vim/split-windows.md~",
-    "3. resources/vim/buffers.md~",
-    "3. resources/vim/4913",
-    "3. resources/vim/new-window.md~",
-    "3. resources/vim/buffers.md",
-    "3. resources/vim/new-window.md",
-    "3. resources/vim/Buffers.md~",
-    "3. resources/vim/split-windows.md",
-    "3. resources/vim/move-file.md",
-    "3. resources/vim/$vim-index.md",
-    "3. resources/vim/Buffers.md",
-    "3. resources/vim/copy-file.md",
-    "Buffers.md",
-    "3. resources/vim/buffers-windows-tabs.md",
-    "buffers-windows-tabs.md",
-    "Untitled.md",
-    "3. resources/vim/buffers-windows-tabs 1.md",
-    "1. proyects/hoy.md",
-    "1. proyects/bitfund/!bitfund.md",
-    "1. proyects/bitfund/!trezor.md",
-    "1. proyects/bitfund/!ledger.md",
-    "1. proyects/bitfund/!mapa-bitfund.canvas",
-    "3. resources/index-resources.md",
-    "2. areas/music/media/rmpc-example2.png.png",
-    "2. areas/music/media/rmpc-example.png.png"
+    "2.areas/merida132/recetas/pollito/soya-picante-gengibre.md",
+    "2.areas/merida132/recetas/pollito/pollito-griego.md",
+    "2.areas/merida132/recetas/pollito/limon-perejil.md",
+    "2.areas/merida132/recetas/media/Pasted image 20240911175728.png",
+    "2.areas/merida132/recetas/media/Pasted image 20240911175742.png",
+    "2.areas/merida132/recetas/media/Pasted image 20240911175715.png",
+    "2.areas/merida132/servicios/servicios.md",
+    "2.areas/merida132/recetas/pollito",
+    "2.areas/merida132/recetas/media",
+    "2.areas/merida132/contenidos/contenidos.md",
+    "2.areas/merida132/servicios",
+    "2.areas/merida132/recetas",
+    "2.areas/merida132/contenidos",
+    "2.areas/merida132",
+    "merida132/recetas/pollito/soya-picante-gengibre.md",
+    "merida132/recetas/pollito/pollito-griego.md",
+    "merida132/recetas/pollito/limon-perejil.md",
+    "merida132/recetas/media/Pasted image 20240911175742.png",
+    "merida132/recetas/media/Pasted image 20240911175728.png",
+    "merida132/recetas/media/Pasted image 20240911175715.png",
+    "merida132/servicios/servicios.md",
+    "merida132/recetas/pollito",
+    "merida132/recetas/media",
+    "merida132/contenidos/contenidos.md",
+    "merida132/servicios",
+    "merida132/recetas",
+    "4.archive/mayacalendarlol/calendario-maya/media/uinales-haab/9-ch'en-pozo-cueva.gif",
+    "4.archive/mayacalendarlol/calendario-maya/media/uinales-haab/8-mol-cosecha.gif",
+    "4.archive/mayacalendarlol/calendario-maya/media/uinales-haab/7-yaxkin-sol-verde.gif",
+    "4.archive/mayacalendarlol/calendario-maya/media/uinales-haab/6-xul-perro-fin.gif",
+    "4.archive/mayacalendarlol/timeline/9-chen.canvas",
+    "4.archive/mayacalendarlol/timeline/8-mol.canvas",
+    "4.archive/mayacalendarlol/timeline/7-yaxkin.canvas",
+    "4.archive/mayacalendarlol/timeline/6-xul.canvas",
+    "4.archive/mayacalendarlol/timeline/5-tsec.canvas",
+    "4.archive/mayacalendarlol/timeline/4-zot.canvas",
+    "4.archive/mayacalendarlol/timeline/3-zip.canvas",
+    "4.archive/mayacalendarlol/timeline/2-uo.canvas",
+    "4.archive/mayacalendarlol/timeline/19-uayeb.canvas",
+    "4.archive/mayacalendarlol/timeline/18-cumku.canvas",
+    "4.archive/mayacalendarlol/templates/template-sunday-morning.md",
+    "4.archive/mayacalendarlol/hunyuan/video generation tool.md",
+    "4.archive/mayacalendarlol/calendario-maya/resources.md",
+    "4.archive/mayacalendarlol/calendario-maya/calendario-azteca.md",
+    "4.archive/mayacalendarlol/calendario-maya/0_informacion-general.md",
+    "4.archive/internet-lore/jeff-bigler/tact-filters.md",
+    "4.archive/internet-lore/eric-raymond/how-to-become-a-hacker.md",
+    "4.archive/internet-lore/eric-raymond/asking-questions.md",
+    "4.archive/internet-lore/crypto-lore/saved-twitts-chicken.md",
+    "4.archive/internet-lore/crypto-lore/rarepepes.md",
+    "4.archive/internet-lore/crypto-lore/chicken-main.md",
+    "4.archive/internet-lore/crypto-lore/NFT-protocols.md",
+    "4.archive/ccna/$comptia-security+-SY0-701-exam/$comptia-security+-SY0-701-exam.md",
+    "4.archive/ccna/$comptia-security+-SY0-601-exam/$comptia-security+-SY0-601-exam.md",
+    "4.archive/ccna/$comptia-network+-N10-008-exam/$comptia-network+-N10-008-exam.md",
+    "4.archive/ccna/$comptia-network+-N10-009-exam/$comptia-network+-N10-009-exam.md"
   ]
 }

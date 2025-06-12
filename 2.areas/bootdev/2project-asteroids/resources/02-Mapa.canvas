@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"6eefc39299323c4f","type":"text","text":"# player.py","x":-680,"y":80,"width":325,"height":60},
+		{"id":"659edde87ad74c3c","type":"text","text":"# asteroid.py","x":80,"y":80,"width":325,"height":60},
+		{"id":"a81ea84fb70688ce","type":"file","file":"01projects/jpg/tech/bot.dev/asteroids/resources/dotpys/03_Asteroid.md","x":80,"y":160,"width":720,"height":680},
+		{"id":"07c8e07ef6a3c8ba","type":"file","file":"01projects/jpg/tech/bot.dev/asteroids/resources/dotpys/02_Player.md","x":-680,"y":160,"width":720,"height":1080},
+		{"id":"4c50051224a7f8da","type":"file","file":"01projects/jpg/tech/bot.dev/asteroids/resources/dotpys/01_CircleShape.md","x":80,"y":-930,"width":720,"height":780},
+		{"id":"1825c0694de17da0","type":"text","text":"# circleshape.py","x":80,"y":-1010,"width":325,"height":60},
+		{"id":"570e78f4e151fec8","type":"text","text":"# asteroid.py","x":840,"y":80,"width":325,"height":60},
+		{"id":"4765f67e9dcc8297","x":840,"y":160,"width":720,"height":480,"type":"file","file":"01projects/jpg/tech/bot.dev/asteroids/resources/dotpys/07_shot.md"},
+		{"id":"e4bb9806f38cfd48","type":"text","text":"# main.py","x":-2325,"y":80,"width":325,"height":60},
+		{"id":"239047f90d9c83ee","type":"file","file":"01projects/jpg/tech/bot.dev/asteroids/resources/dotpys/06_main.md","x":-2325,"y":160,"width":720,"height":1560},
+		{"id":"ab93d1c00a30c700","type":"file","file":"01projects/jpg/tech/bot.dev/asteroids/resources/dotpys/05_AsteroidField.md","x":-1565,"y":160,"width":720,"height":1340},
+		{"id":"d94f901329e15d7f","type":"text","text":"# asteroidfield.py","x":-1565,"y":80,"width":325,"height":60},
+		{"id":"9d350e7aab4c76df","type":"text","text":"# constants.py","x":-1402,"y":-780,"width":325,"height":60},
+		{"id":"99e57fbf3b869a30","type":"text","text":"# .gitignore","x":-927,"y":-780,"width":325,"height":60},
+		{"id":"3a9648c4ba7d55c4","type":"file","file":"01projects/jpg/tech/bot.dev/asteroids/resources/dotpys/04_Constants.md","x":-1402,"y":-700,"width":400,"height":400},
+		{"id":"d357b6d27ad66b97","type":"text","text":"# venv/\n# __pycache__/\n","x":-927,"y":-700,"width":325,"height":320}
+	],
+	"edges":[
+		{"id":"fc388a828a0dd991","fromNode":"4c50051224a7f8da","fromSide":"bottom","toNode":"6eefc39299323c4f","toSide":"top"},
+		{"id":"8c2d799927796487","fromNode":"4c50051224a7f8da","fromSide":"bottom","toNode":"659edde87ad74c3c","toSide":"top"},
+		{"id":"840c04203dbf2403","fromNode":"4c50051224a7f8da","fromSide":"bottom","toNode":"570e78f4e151fec8","toSide":"top"}
+	]
+}

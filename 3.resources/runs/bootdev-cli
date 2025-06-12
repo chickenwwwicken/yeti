@@ -1,0 +1,4 @@
+#!usr/env/bin bash
+go install github.com/bootdev/bootdev@latest
+bootdev --version
+bootdev login

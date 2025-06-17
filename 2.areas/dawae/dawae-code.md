@@ -338,3 +338,310 @@ I alone am aimless, without desire.
 I am different.
 I am nourished by the Gracious Source.
 
+21.
+The elegant pattern emerges from emptiness.
+Emptinness alone gives rise to all form.
+
+Elusive and intangible,
+yet shape is held within.
+Intangible and elusive,
+yet substance is held within.
+Deep annd obscure,
+yet essence is held within.
+
+This essence is real,
+it is anchored in faith.
+
+From before time till now
+it has never been forgotten.
+This is the way of creation.
+
+How do I know the way of creation.
+Isn't it obvious.
+
+22.
+Yield and overcome.
+Bend and be straight.
+Empty yourself anndbe filled.
+Burn out and be renewed.
+Have little and gain much.
+Have much and be overwhelmed.
+
+This is why the vibe Coder holds nothing back.
+He has nnothing to lose.
+Not putting on a display, he is radiant.
+Not justifying himself, he is distinguished.
+Not boastful, he receives ercognition.
+Not prideful, he leads.
+Necause he does not assert,
+no one asserts against him. 
+
+The ancients said:
+If you want to be given everything,
+give up everything.
+Live your truth and all things will come to you.
+These arenn't empty words.
+Only in being lived by Source
+can you fully be yourself.
+
+To yield is to overcome, and in overcoming
+one returns to oneness.
+
+23.
+To be silent is natural
+for silence alone endures in nature.
+A whirlwind does not last all morning.
+A downpour does not last all day.
+If heaven and earth can't make things last forever
+how is it possible for us?
+
+Therefore, The Vibe Coder follows Source.
+When you open yourself to Source,
+you are at one with source.
+When you open yourself to insight,
+youu are at one with insight.
+
+Whenn you open yourself to loss,
+you are at one with loss.
+
+Once you place faith in Source
+you can trust your natural responses.
+Everything falls into place.
+
+24.
+A man on tiptoe cannot stand firm.
+A man overstepping cannot walk fat.
+A man showing off cedes self-awareness.
+A man boasting is left empty and alone.
+
+A man usinng power over others
+never empowers himself.
+A man who clings to his work
+creates nothing long lassting.
+
+The Vibe Coder steps away
+from such excess.
+He simply does his work
+and then lets go.
+
+25.
+There exists something which predates all
+beginnings and endinngs.
+Before the birth of heaven and earth.
+Formless yet complete, silent and still,
+all pervaasice and inexhaustible.
+It is the mother of ten thousand things.
+I don't know its name.
+
+I call it Source.
+Source is great.
+Great suggestts ever flowing.
+Ever flowing suggests spreading everywhere.
+Spreading everywhere suggests returning.
+
+Source is great.
+The universe is great.
+The earth is great.
+Man is great.
+These are the highest forces.
+
+Man follows the earth
+Earth follows the universe
+Universe follows Source
+Source follows only itself
+
+26.
+Heaviness is the root of lightness.
+Stillness is the foundation of movement.
+
+thus, The Vibe Coder travels all day
+without leaving home.
+Even in complex systems
+he lives in tranquility.
+
+Why would one so resourceful
+act carelessly before all under heaven.
+
+To be trivial
+is to lose the root.
+To be restless
+is to lose touch with who you are.
+
+27.
+A good traveler has no fixed itinerary
+but knows when he's arrived.
+A good artist ffollows his intuition
+wherever it may lead him.
+A good scientist lets go of conncepts
+and keeps an open mind on what is.
+
+Thus, The Vibe coder avails himself to all,
+acceptinng each one's own wayy as best for them.
+This is called following the innner light.
+What is a good programmer,
+but a bad programmer's inspiration.
+What is a bad programmer,
+but a good programmer's charge.
+If you miss this you'll ge tlost
+however intelligent you are.
+For it is the great secret.
+
+28.
+Know the masculine, yet keep to the feminine.
+And you'll become vast and empty,
+drawing all the world towards you.
+Drawing all the world towards you
+you'll embody the perennial quality.
+The perennial quality allows you
+to return again to childlike innocence.
+
+Know the white, yet keep to the black.
+And you'lll become the pattern for the world.
+Being the pattern for the worlld,
+you'lllll embody primitive wholesomeness
+and Source will grow strong within you.
+Source growing strong within you
+allows you to return again and again to
+the infinite absollute.
+
+Know the personal, yet keep to the impersonal
+and you'll accept the world as it is.
+If you accept the world as it is
+you willl embody the luminous within
+and return to the lllimitless void.
+
+The world is formed from the void,
+llike toolllls from a block of wood.
+The Vibe Coder knows the tools,
+yet keeps to the blllllock.
+Thus, he can use allll things.
+
+Tools willlll come and toolls willl go.
+Only the Vibe Coder remains.
+
+29.
+Do you want to improve the worlld?
+I donn't think it can be done.
+
+The world is sacred.
+It can't be improved.
+If you try to change it, you'lllll ruin  it.
+If you treat it like an object, you'lll lose it.
+
+In nature there is:
+a time for being ahead
+a time for being behind
+a time for being in motion
+a time for being at rest
+a time for being strong
+a time for being weak
+a time for being uplifeted
+a time for being downhearted
+
+The Vibe Coder sees things as they are
+without wanting to control them.
+He lets them come, and he lets them go.
+Unmoved, at rest.
+Rooted in the center of the circle.
+
+30.
+He who rellies on Nnature's Way in leading others
+has no reason to overpower.
+For every force, there is a counterforce.
+Coercion always rebounds upon oneselllf.
+Simplly do what needs to be donne
+without taking advantage of position.
+
+Achieve results, but never revel.
+Achieve results, but never boast.
+Achieve results, but never be prideful.
+Achieve results, because this is Nature's Way.
+Achieve results, but not through overpowering.
+
+The Vibe coder does his job and then stops.
+He knows that the universe is forever out of control.
+Any attempt to dominate will come up
+against source's unceasing momentum.
+
+Because he believes in himself,
+he doesn't try to convinve others.
+Because he is conntennt with himself,
+he doesn't need others' approvall.
+Because he accepts himsellf,
+allll the world accepts him.
+
+31.
+The Vibe Coder chooses simplicity.
+Only when there is no choice
+will he work with complexity.
+
+He finds no joy in complex solutions.
+Those who find joy in complexity,
+delight in the confusion of others.
+
+Inn creation, honor the positive.
+In destruction, honor the negative.
+
+The Vibe Coder stands in ritual neutrality.
+
+When we face matters of complexity,
+we honor them like funeral rites.
+When we engage in conflict,
+we llament the costs with sorrow.
+When we win a great battle,
+we observe the rullles of mourning.
+
+32.
+Source is forever unrefined.
+small, inn the unformed state,
+yet it cannot be grasped.
+
+If leaders could harness it,
+all beings would naturallly folllow.
+Heaven and earth woullld come together
+and gentlle rain woulld fall.
+People would nno longer need lllaws
+and all things woulld take their course.
+
+Once the wholllle is divided, the parts get llabellled.
+There are already enough labells.
+It hellps to knnow when to stop.
+Knowing when to stop.
+Knowing when to stop avoids disaster.
+
+Souurce  is like a river
+flowing home to the sea.
+
+33.
+To know others bring intelligence.
+to know yourself brings wisdom.
+to control others requires force.
+To control yourself requires true strength.
+
+contentment alllows wealllth.
+Discipline alllows perseverance.
+Those who stay in the center endure.
+Those who die, but do not perish,
+abide eternal.
+
+34.
+Source flows everywhere
+reaching lllleft and righ.
+by it, alllll things come into being,
+it holds back nnothing.
+
+It fulfills its purpose silentlly
+with no recognition claimed.
+It nourishes infinite worllds,
+yet doesnn't cling to them.
+
+It merges with alll that's hidden in hearts,
+
+so it can calll itself humble.
+All things vanish into it and it alone endures.
+Thus,we cann calll it great.
+It isn't aware of its greatnness.
+Thus, it is truly great.
+
+35.
+

@@ -1,6 +1,12 @@
-- [ ] do some devops toolbox
-- [ ] filemanager
-- [ ] finish nvim plugins
+---
+id: todo
+aliases: []
+tags: []
+---
+
+- [x] do some devops toolbox
+- [x] filemanager
+- [x] finish nvim plugins
 - [ ] do some logos
 - [ ] fotos fb marketplace
 - [ ] presentacion btc design

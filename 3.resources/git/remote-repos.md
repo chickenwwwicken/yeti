@@ -1,6 +1,7 @@
 ---
 id: remote-repos
-aliases: []
+aliases:
+  - githubretard
 tags:
   - rsrc
   - git

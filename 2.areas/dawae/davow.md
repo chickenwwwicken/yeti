@@ -31,7 +31,7 @@ todavia pienso en chipotles en sopa de verduras
 y en las manchas de tinta en el papel
 en los jalones de pelo y en las hormigas
 
-recordare tambien tu eterno juicio
+recordare tu eterno juicio
 respirar veneno y tus avionazos
 tu amor incondicional
 
@@ -41,4 +41,4 @@ y el bandera esta prendida (la?)
 
 larga vida a los huevos revueltos
 con salsa de la que haya
-y frijoles tambien
+y frijoles

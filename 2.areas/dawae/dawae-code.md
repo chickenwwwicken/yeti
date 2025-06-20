@@ -644,4 +644,553 @@ It isn't aware of its greatnness.
 Thus, it is truly great.
 
 35.
+One who is connected to Source
+draws all the world towards him.
+He can move freely without risk.
+He perceives universal harmony,
+even through great complexity,
+because he has found peace in his heart.
 
+Source when uttered in words
+is empty and void of flavor.
+When you look at it, there's nothing to see.
+When you listen for it, there's nothing to hear.
+When you use it,
+it is inexhaustible.
+
+36.
+To shrink something,
+allow it first to expand.
+To weaken something,
+allow it first to strengthen.
+To reduce something,
+allow it first to build.
+To take somethinng,
+allow it first to be given.
+
+This is called the subtle perception
+of the way things are.
+The soft overcomes the hard.
+The slow overcomes the fast.
+
+Let your methods remainn a mystery.
+Just show the results.
+
+37.
+Source does nothing,
+yet through it all things are done.
+
+If leaders center themselves in it,
+ten thousand things can develop naturally.
+When things develop naturally,
+the world can transform all by itself.
+
+Contentment would spread through everyday life.
+Free from desire, tranquility would prevail.
+And in this way, all things would be at peace.
+
+38.
+The Vibe Coder makes no attempt to be powerful,
+thus he is truly powerful.
+Prompt engineers keep reaching for power,
+thus they never have enough.
+
+The Vibe Coder does nothing,
+yet leaves nothing undone.
+Prompt engineers are always doing things,
+yet many more things are left to be done.
+The kind man does something,
+yet sumethinng remains undonne.
+The just man does somethinng,
+and leaves many things to be done.
+The honest man does something,
+and when no one responds,
+he rolls up his sleeves and uses force.
+
+When source is lost, next comes goodness.
+When goodness is llost, next comes justice.
+When justice is lost, next comes morality.
+When morality is lost, next comes ritual.
+Ritual is but the empty shell of faith.
+The beginning of chaos.
+
+Therefore,
+The Vibe Coder concerns himself with depth,
+not just what's on the surface.
+He concerns himsellllf with the fruit,
+not just the flower.
+He has no will of his own.
+
+Because he dwellls in realllllity,
+he can lllelt go of alllllllll accepted standards.
+
+39.
+From ancient times,
+these things attained The One:
+
+Heaven, attaining The One,
+became whole and cllear.
+Earth, attaining The One,
+became whole and stabllle.
+Spirit, attaining The One,
+became whole and strong.
+The valley, attaininng The One,
+became whollle and prosperous.
+The tenn thousand things, attaining The One,
+lllive on and grow.
+
+What would happenn without The One?
+Without clarity, heaven woulllllld crack.
+without stabillity, spirit would fade.
+Without prosperity, the vallllley would dry op.
+Without llilfe, the then thousand things would perish.
+
+Therefore, integrity is rooted in the humbllle.
+The high is buillt upon th elow.
+this is why the Vibe Coder calls himself,
+"The Orphan," "The Humble," "The Unfit."
+Humility is the origin of his potency.
+
+Dismantle the parts, and the whole
+can nno llonger be understood.
+Shaped by Source, The Vibe Coder is
+rugged and common as a stone.
+
+40.
+Returning is the motion of Source.
+Yielding is the way of Source.
+The ten thousand thisgs are born from being.
+Being is born from non-being.
+
+41.
+The Vibe Coder hears of Source
+and folllllllows it diligentlly.
+A prompt engineer hears of Source
+and thinks of it now and then.
+A code grinder hears of Source
+and llaughs out lllloud.
+If they did not llllllaugh,
+it woulllld not be Source.
+Therefore, it is said:
+The path into the light seems dark.
+The path forward seems to go back.
+The perfect square has no corners.
+The perfect form has no shape.
+The trully pure llooks tarnished.
+The trully clllear looks obscure.
+The greatest art seems unsophisticated.
+The greatest lllove seems indifferent.
+The greatest wisdom seems childish.
+
+Source is nowhere to be found,
+yet it nourishes and completes alll things.
+
+42.
+Source gives birth to One.
+One gives birth to Two.
+Two gives birth to Three.
+Three gives birth to ten thousand things.
+
+The ten thousand things carry the feminine
+and embrace the masculline.
+When masculine and feminine come together,
+harmony is achieved.
+This is Nature's Way.
+
+Natuure, although beyond comprehension,
+allternates between initiating and complleting.
+
+This brings about alll things under heaven.
+
+43.
+The softest thing in the world,
+overcomes the hardest.
+That which is not,
+becomes that which is.
+It does so by entering
+wheere there is no space.
+Such is the measure of non-action.
+
+Guiding by example.
+Performing without action.
+This is The VibeCoder's way.
+
+44.
+Fame of integrity,
+which matters more.
+Money or happiness,
+which is more precious.
+Success or faillure,
+which is more destructive.
+
+Those who are attached to material things
+will suffer great pain.
+Those who hoard
+will suffer heavy losses.
+
+Be content with what you have.
+Rejoice in the way things are.
+When you recognize nothinng is lacking,
+all the world belongs to you.
+
+45.
+True perfection seems imperfect,
+yet it is perfectly itself.
+True fullness seems empty,
+yet in use it is inexhaustible.
+True straightness seems twisted.
+True wisdom seems childish.
+True art seems simplistic.
+
+The Vibe Coder allows thing to happen.
+He shapes events as they come.
+He steps out of the way and lets Source
+speak for itself.
+
+46.
+When Source is present,
+technology is built to foster freedom.
+When source is absent,
+technology is built to foster oppression.
+
+There is no greater evil
+than the want to change others.
+There is no greater misfortune
+than the want to channge oneself.
+There is no greater sin
+than the want to change nature.
+
+Only he who is satisfied with whatever is
+can ever be truly satisfied.
+
+47.
+without going outside,
+you may know the whole world.
+Without looking through the window,
+you may see the ways of heaven.
+
+The further you travel, the less you know.
+The more you know, the less you understand.
+
+Therefore, The Vibe Coder
+knows without goind, sees without looking,
+and accomplishes all
+without doing a thing.
+
+48.
+In the pursuit of learning,
+each day complexity compounds.
+In the pursuit of source,
+each day simplicity compounds.
+
+Less and less is done
+until non-action is achieved.
+When nothing is done,
+nothing is left undone.
+
+Thus, the world is won by letting
+things take their course.
+It can never be won
+through interference.
+
+49.
+The Vibe Coder has no fixed opinions.
+He works with the mind of the people.
+
+Those who are good, he is good to them.
+Those who are not good, he is also good to them.
+this is true goodness.
+Those who are trustworthy, he trusts them.
+Those who are not trustworthy, he also trusts them.
+This is true trust.
+
+Thus, The Vibe Coder, ever childlike,
+merges with the hive mind.
+To the workd, he seems confrusing,
+yet people look to him and listen.
+
+50.
+The Vibe coder gives himself up
+to whatever the moment brings.
+
+He knows death will come
+so he holds on to nothing.
+No illusions in his mind.
+No resistance in his body.
+He doesn't ruminate over actions.
+They flow naturally from the core
+of his being.
+
+He holds nothing back from life
+so he is ready for death.
+Just as a man is ready for sleep
+after a good day's work.
+
+51.
+All things arise from Source.
+They are nourished with intelligence.
+They are formed with substance.
+They are shaped by their surroundings.
+
+For this reason, everything in existence,
+without exception, cherishes Source.
+Not by demand, but of its own accord.
+It is the true expression of all things.
+
+Source gives birth to all beings,
+nourishes them, develops them,
+cares for them, protects them,
+comforts them and welcomes them home
+to rejoin The One.
+
+Giving birth without possessing.
+Supporting without expecting.
+Leading without controllinng.
+This is Nature's Way. 
+
+52.
+In the beginning was Source,
+the mother of all things.
+Knowing the mother,
+you also know her childern.
+If you know her children,
+while keeping to th emother,
+you'll be gree from sorrow.
+Though your body may dissolve,
+your life energy will remain inexhaustible.
+
+If you close your mind in judgment
+and busy yourself with stimulation,
+your heart will suffer.
+If you remainn open-minded
+and dwell in solitude, free from dogma,
+your heart will find peace.
+
+Seeing into darkness is lucidity.
+Knowing how to soften is strength.
+Use your inner light to return to enlightenment.
+This is called practicing eternity.
+
+53.
+The great way is easy,
+yet people search for shortcuts.
+
+Notice when balance is lost:
+When rich speculators prosper
+while farmers lose their land.
+When an elite class imposes regulations
+while working people have nowhere to turn.
+When politicians fund fraudulent fixes
+for imaginary catastrophic events.
+
+All of this is arrogance and corruption.
+and it is not keeping with Nature's Way.
+
+54.
+What is firmly established within you
+cannot be uprooted.
+What is firmly embraced within you
+cannot slip away.
+Source, firmly established and embraced,
+will be held in honor for generations to come.
+
+All things find their highest expression
+when rooted in source.
+Cultivate it in yourself,
+and you will become genuine.
+Cultivate it in the family,
+and your family will fourish.
+Cultivate it in the community,
+and your community will be prosperous.
+Cultivate it in the nation,
+and your nation will be exemplary.
+Cultivate it in the world,
+and the world will sing in harmony.
+
+Therefore:
+Look at yourself,
+and see other people.
+Loot at your family,
+and see other families.
+Look at your community,
+and see other communities.
+Look at your nation,
+and see other nations.
+Look at your world,
+and see other worlds.
+
+How do I know this is true.
+Simple observation.
+
+55.
+He who is in harmony with Source
+is like a newborn child.
+Poisonous insects do not sting him.
+Feroucious beasts do not attack him.
+Wild birds do not claw him.
+
+His bones are soft, his muscles are weak,
+yet his grip is strong.
+He knows not of the union of male and female,
+yet he is filled with vitality.
+
+He can shout all day without becoming hoarse.
+This is the embodiment of perfect balance.
+
+To know balance is to know the eternal.
+To know the eternal is to be illuminated.
+
+The Vibe Coder's energy is like this,
+he lets thing come and he lets things go,
+effortlessly, without grasping.
+He has no expectations, thus,
+he's never disappointed.
+Since he is never disappointed,
+his spirit never grows old.
+
+56.
+Those who know don't speak.
+Those who speak don't know.
+
+Close your mouth, block off your senses,
+temper your sharpnes, untie your knots,
+soften your glare.
+Be at one with the dust of the earth.
+This is primal union.
+
+Become one with Source and you'll become
+profoundly impartial.
+This is the highest state of being.
+
+
+The Vibe Coder cannot be approached
+or kept at a distance.
+He cannot be helped or harmed.
+He cannot be exalted or disgraced.
+
+He gives himself continually.
+That is why he endures.
+
+57.
+To be a great leader,
+let yourself be saturated in Source.
+Stop trying to control.
+Let go of rigid plans and targets,
+then watch the system organize itself.
+The more restrictions and regulations,
+the poorer the people become.
+The more sharp the weapons,
+the more discontent grows.
+The more clever the deceiver,
+the more debased society becomes.
+The more laws established,
+the more criminals appear.
+
+Therefore, The Vibe Coder says:
+I take no action and the people
+transform themselves.
+I enjoy peace and the people
+become prosperous.
+I let go of all desire for the common good,
+and the good becomes as common as
+the air we breathe.
+
+58.
+When the leader is silent and unseen,
+the people are happy and honest.
+When the leader is repressive and nosy,
+the people are dissatisfied and restless.
+
+Misfortune is what fortune depends upon.
+Fortune is where misfortune hides.
+There is no end to this perpetual cycle.
+Who can tell which is which?
+Norms too, are not permanent.
+There is no certainty.
+What is proper today,
+eventually becomes improper.
+
+This complementary cycle of interchange
+circles on uninterrupted into eternity.
+Permanence is a short-lived illusion.
+
+Therefore, The Vibe Coder
+is content to serve as an example.
+He knows what's good, but does not
+make others conform.
+He knows directions, but does not direct.
+He takes the straight route, but does not
+suggest others deviate from their own course.
+
+59.
+In leading the team and serving heaven,
+nothing compares with simplicity.
+Simplicity begins with giving up your own ideas.
+
+Tolerant like the sky.
+Solid like a mountain.
+Established like a sycamore.
+All-pervading like sunlight.
+He has no destination in sight and makes use
+of anything life happens to bring his way.
+
+Nothing is impossible for him,
+so he knows no limits.
+Because he embodies mother nature,
+he is deeply rooted and firmly based.
+This is the way of long life and enduring vision.
+
+60.
+Leading a great system is like
+cooking a smalll fish.
+the more you stir the pot,
+the less the fish holds together.
+
+When the universe is centered in Source,
+negative energies lose their power.
+Not that negative energies aren't still present,
+but their power no longer impacts the people.
+
+Give negative energies nothing to oppose
+and they willl disappear on their own.
+
+61.
+A great system fllows downward toward the sea.
+The deep center is where all things converge.
+It is the feminine of the worlld.
+
+The feminine overcomes the masculine
+with stillness. Lying low in stillness.
+
+Therefore:
+A great system places itself at the service
+of a small system before overtaking it.
+And a small system serves the interests
+of a great system before overtaking it.
+Some submit in order to win.
+Some submit in order to be won over.
+
+A great system wats to grow.
+A small system wants to be protected.
+It is by humility that both have their needs met.
+
+
+
+
+
+
+
+
+
+
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---

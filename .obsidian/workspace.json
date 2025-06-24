@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.resources/inkscape/Untitled.md",
+                "file": "2.areas/monero/shadow-atas-usmoneyhaven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "shadow-atas-usmoneyhaven"
             }
           },
           {
@@ -176,8 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5e806fc94e3165b",
+  "active": "194c0dfb3ac9f109",
   "lastOpenFiles": [
+    "2.areas/juanpablogarza/bbva-4351.jpeg",
+    "2.areas/juanpablogarza/bbva-4351.jpeg.crdownload",
+    "2.areas/juanpablogarza",
+    "3.resources/inkscape/Untitled.md",
     "2.areas/dawae/dawae-code.md~",
     "3.resources/oss/arch/zip/unzipping.md~",
     "3.resources/oss/arch/zip/unzipping.md",
@@ -189,15 +193,11 @@
     "2.areas/dawae/laissez-faire.md~",
     "2.areas/dawae/davow.md~",
     "2.areas/monero/shadow-atas-usmoneyhaven.md",
-    "3.resources/inkscape/Untitled.md",
     "3.resources/inkscape",
-    "2.areas/Untitled",
     "2.areas/dawae/laissez-faire.md",
     "2.areas/dawae/cbt-strategy.md",
     "2.areas/dawae/reddit-advice.md",
-    "0.inbox/todo.md~",
     "2.areas/dawae/davow.md",
-    "2.areas/dawae/davow",
     "5.index/4.archive-index.md",
     "2.areas/bitcoin/jameson-lopp-critique-softwar.md",
     "2.areas/bitcoin/btcs-big-picture_article.md",

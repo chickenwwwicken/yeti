@@ -1174,9 +1174,361 @@ A great system wats to grow.
 A small system wants to be protected.
 It is by humility that both have their needs met.
 
+62.
+Source is the heartbeat of the universe.
+The Vibe Coder's treasure.
+The prompt engineer's refuge.
+
+Beautiful code, arising from Source,
+will be louded for its function.
+Breakthrough apps, arising from Source,
+will advance the cybercosm.
+And even if a hacker goes rogue,
+Source will not abandon him.
+
+Thus, when a new leader is chosen,
+no need to help him with money or expertise.
+Instead, simply point him towards the Source.
 
 
+Why did the ancient coders
+esteem source so highly.
+Because from the beginning,
+aligning with Source,when you seek, you find.
+And when you make errors, you are forgiven.
 
+that is why Solurce is the greatest treasure
+in the universe.
+
+63.
+Act without doing.
+Work without effort.
+Think of the small as large
+and the few as many.
+See simplicity in the complicated
+and accomplish the remarkable in small steps.
+
+Meet the difficult while it's still simple.
+Solve the major while it's still minor.
+Difficult problems in the world always 
+arise from simple ones.
+Major issues in the world always
+arise from minor ones.
+
+The Vibe coder never reaches for the great.
+Thus, he achieves greatness.
+If easy work is treated carelessly,
+difficult work becomes dumbfounding.
+
+Approach each task with cool seriousness
+and full presence.
+
+64.
+What is still is easy to maintain.
+What has not yet apppeared is easy to plan for.
+What is brittle is easy to break
+What is small is easy to scatter.
+
+Deal with things before they appear.
+Create order before confusion begins.
+All magnificent things in the world start small.
+
+A tree that fills a man's arms
+arises from a tender shoot.
+A nint-story tower is raised
+from a single heap of earth.
+A thousand-mile journey begins
+from the spot under one's feet.
+Those who rush to action defeat themselves.
+Those who grasp for things lose their grip.
+
+Therefore, The Vibe Coder takes action
+by lettingg things take their course.
+He remains composed at the end,
+just as he was at the beginning.
+He has nothing; therefore, he has nothing to lose.
+He has learned to unlearn,
+he walks the path the learned forgot.
+He is solely focused on Source,
+thus, he can care for all things.
+
+65.
+The ancients who followed Source
+didn't educate the people,
+but allowed to them to remain unspoiled.
+When they think they know,
+people are difficult to guide.
+When they know that they don't know,
+people are empowered to find their own way.
+
+If you want to  lead, avoid cleverness.
+If you want to lead, embrace simplicity.
+Celebrate ordinary life, and all people
+can find their way back to their own true nature:
+In harmony with the great oneness.
+
+66.
+Why is the sea,
+king of a hundred streams.
+Because it lies below them.
+Humility gives it its power.
+
+If you want to lead a team,
+place yourself below them.
+Learn how to follow them.
+
+The Vibe  Coder is above people,
+and no one feels oppressed.
+He stands ahead, and no one's left behind.
+
+Because he does not compete,
+he will not have competition.
+
+67.
+People say source is so grand
+
+it's impossible to grasp.
+It is just this grandness
+that makes it unlike anything else.
+
+I have three great treasures to share:
+Simplicity
+Patience
+Humility
+
+Simple in action and in thought,
+you return to the origin of being.
+Patient with both friends and enemies,
+you accord with the way things are.
+humble in word and deed,
+you inhabit the oneness of the cosmos.
+
+68.
+A good soldieer is not violent.
+A good fighter is not angry.
+A good winner is not vengeful.
+A good leader is not dictatorial.
+
+This is called intelligent non-competition.
+This is called harnessingg the strength of others.
+This is the ancient essence:
+In alignment with heaven.
+
+69.
+In the military it is said:
+I dare not make the first move,
+as it is better to wait and see.
+I dare not advance an inch,
+as it is better to back away a foot.
+
+This is called:
+Advancing without advancing.
+Rolling up sleeves without showing arms.
+Capturing the enemy without attacking.
+Being armed without weapons.
+
+There is no greater misfortune
+than undersetimating your opponent.
+He who does not prepare to defend himself
+appears to have no enemies.
+No one will attack a person unless
+he appears to be an enemy.
+
+For, to attack one who is not an enemy
+is to lose a friend.
+
+70.
+My words are easy to understand,
+and easy to put into practice.
+Yet no one under heaven
+understands or practices them.
+
+My words are older than the world.
+How can you grasp their meaning?
+
+If you want to understand,
+look inside your heart.
+
+71.
+Not knowing is pure knowledge.
+Assuming to know is staggnation.
+Only when we recognize stagnation
+as stagnation can we be free from it.
+
+The Vibe Coder is free from stagnation
+because he sees it for what it is.
+Thus, he is free to be truly whole.
+
+72.
+When people lose their sense of awe,
+they turn to religion.
+When people no longer trust themselves,
+they submit to authority.
+
+Therefore, The Vibe Coder steps back
+so people won't be misdirected.
+He teaches without a teaching,
+so people will have nothing to learn.
+
+73.
+Daring based on courage leads to death.
+Caution based on courage leads to life.
+While this is true, it is not always so.
+Nature has plans of its own.
+Even The Vibe Coder is baffled.
+
+Without competing, Source overcomes.
+Without speaking, Source responds.
+Without being summoned, Source arrives.
+Without preparation, Source follows the plan.
+
+Heaven's net covers the universe.
+Although its openings appear wide,
+nothing can ever slip through.
+
+74.
+When you realize all things change,
+there is nothing you'll struggle to hold on to.
+If you are not afraid of dying,
+there is nothing you can't achieve.
+
+Only nature knows the proper time
+for a mann to die.
+To tak a life therefore,
+is to interrupt nature's design for dying.
+
+Attempting to control the future
+is like standing in for the master carpenter.
+When you handle the master's tools,
+you'll surely cut your fingers.
+
+75.
+When taxes are to high,
+people go hungry.
+When the government is too intrusive,
+people lose their spirit.
+
+Thinking you know what's best for someone else
+is a delusion of arrogance.
+Allow the people to benefit themselves.
+Trust them and leave them alone.
+
+76.
+In life, the body is supple and pliant.
+In death, it's as stiff as a board.
+In life, plants are tender and flexible.
+In death, they're rigid and withered.
+Rigid and stiff are companions of death.
+Flexible and supple are companions for life.
+
+Therefore:
+An inflexible system will not endure.
+An unyielding tree will be broken.
+The rigid and stiff will snap.
+The yielding and flexible will flourish.
+
+77.
+Nature's Way is like drawing back a bow,
+the top fo the bow flexes downward
+and the bottom of the bow flexes up.
+
+Nature's Way is the way of balance,
+adjusting for excess and deficiency.
+It takes from what is too muuch
+and gives to what isn't enough.
+
+Ordinary people act differently.
+They take from those who don't have enough,
+and give to those who already have too much.
+
+Who has more than enough
+and gives it to the world?
+Only The Vibe Coder.
+
+
+The Vibe Coder can keep giving
+because there's no end to his abundance.
+He acts without expectation.
+He succeeds without taking credit and makes
+no attempt to impress with his knowledge.
+
+78.
+nothing in the world is as soft
+and yielding as water.
+yet for dissolving the hard and inflexible
+nothing surpasses it.
+nothing can alter it.
+
+the soft overcomes the hard.
+the flexible overcomes the stiff.
+everyone knows this to be true,
+but no one puts it into practice.
+
+therefore, the vibe coder remains
+cool in the midst of great sorrow.
+evil cannot pierce his heart.
+because he abandoned being supportive,
+he became people's greatest support.
+
+truth often sounds like its opposite.
+
+79.
+Failure is an invitation.
+If you blame someone else,
+there's no end to the blame.
+
+Therefore,
+The Vibe Coder fulfills his obligation,
+and corrects his own mistakes.
+He does what he needs to do
+and demands nothing of others.
+
+Nature neither keeps nor breaks contracts,
+because she makes none.
+She remains in service to those who live
+in resonance with Source.
+
+80.
+If a community is led wisely,
+its members will be content.
+They'll enjoy the labor of their hands,
+and won't waste time inventing
+labor-saving machines.
+Since they dearly love their tribe,
+they aren't interested in travel.
+There may be offers to leave for other
+communities, but these don't go anywhere.
+There may be a range of other life choices,
+but nobody ever picks them.
+People are nourished and take pleasure
+in being with their teammates.
+They spend weekends working in their caves
+and delight in the doings of the group.
+
+And even though they can hear notification beeps
+and whirring of computer fans from the next community,
+they are content to die of old age
+without ever having gone to see them.
+
+81.
+Truthful words are not beautiful.
+Beautiful words are not truthful.
+Grounded men don't need to prove their point.
+Men who need ot prove their point
+are not grounded.
+Wise men do not argue.
+Those who argue are not wise.
+The ones who know are not educated experts.
+Educated experts are not the ones who know.
+
+The Vibe Coder does not accumulate possessions.
+The more they do for others, the more they gain.
+The more they give away, the more they have.
+
+The way of heaven is to be of service,
+not to harm.
+The way of the Vibe Coder is to do more,
+not to compete.
 
 
 

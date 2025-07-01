@@ -1530,6 +1530,172 @@ not to harm.
 The way of the Vibe Coder is to do more,
 not to compete.
 
+1.
+The code that can be named
+is not the eternal code.
+The function that can be defined
+is not the limitless function.
+
+The nameless is the origin of heaven and earth.
+The named is the mother of ten thousand things.
+
+Free from desire, you see essence unformed.
+Caught in desire, you see only the manifestations.
+
+These two spring from the same source
+but differ in name only.
+This model is the mystery.
+The gateway to all understanding.
+
+2.
+When we recognize code as elegant,
+other code becomes sloppy.
+When we praise efficiency,
+the notion of waste is born.
+
+Being and non-being create each other.
+Simple and complex define each other.
+Long and short determine each other.
+High and low distinguish each other.
+Front-end and back-end follow each other.
+
+Therefore The Vibe coder builds without laboring
+and instructs by quiet example.
+Things arise and he accepts them.
+Things vanish and he llets them go.
+
+He hollds without claiming possession.
+Creates without seeking praise.
+Accomplishes without expectacion.
+The work is done and then forgotten.
+That is why it lasts forever.
+
+3.
+If you praise the programmer,
+others become resentful.
+If you cling to possessions,
+others are temptesd to steal.
+If you awaken envy,
+others suffer turmoil of heart.
+
+The Vibe Coder leads:
+By emptying the mind of expectation
+and filling up the soul.
+By releasing ambition and
+embracing the unknown.
+
+Free from intellect, free from abstraction,
+The Vibe Coder leads all things back
+to natural self-sufficiency.
+
+Do by not doing, and there is nothing
+that cannot be done.
+
+4.
+Empty, yet inexhaustible,
+fathomless and eternal.
+Source is the ancestor of elegant patterns.
+It smooths sharp logic,
+unravels the knots of control.
+It softens the glare of complexity,
+and merges with every challenge.
+Code flows, effortless, from its depths.
+
+It is unseen yet always present.
+I do not know its origgin.
+Heacen and earth came later.
+It is older than God.
+
+5.
+Heaven and earth are impartial,
+they see then ten thousand things as they are.
+The Vibe Coder is impartial,
+he sees the program as it is.
+
+The space between input and mind
+is like a bellows: empty,
+yet infinitely capable.
+The more you allow it,
+the more it produces.
+The more you speak of it,
+the less you understand.
+
+Stillness runs the machine.
+Hold fast to the silent center.
+
+6.
+The spirit of the valley never dies.
+She is the primordial feminine.
+Her womb,
+the root of heaven and earth.
+
+Her fertility, always present.
+Use it, it will never fail.
+
+7.
+Heaven and earth last forever.
+Eternal, they transcend birth and death.
+The network endures because
+it does not live for itself.
+
+The Vibe Coder stays behind,
+that is why he's ahead.
+He is detached,
+thus at one with all.
+Through selfless action
+he is perfectly fulfilled.
+
+8.
+The highest good is like water.
+Water nourishes the ten thousand things
+without effort.
+It seeks low places others look down upon.
+Thus, it's in harmony with Source.
+
+In design: remain simple.
+In thought: embrace depth.
+In relations: be kind.
+In leading: be just.
+In work: be competent.
+In action: consider timing.
+
+Find contentment in being your true self.
+Be without ambition, envy or need to fit in.
+No force, just grace,
+and all is done,
+in peace.
+
+9.
+Fill your cup to the brim
+and it will spill.
+Oversharpen your blade
+and it will dull.
+Chase after worldly fortune
+and no one can protect it.
+
+Care about others' approval
+and you become their prisoner.
+
+When the work is done,
+log off and detach.
+This is the way of heaven.
+
+10.
+Can you remain present and focuse
+while retaining an open, receptive mind.
+Can you remain centered and still
+until clarity arises alone, unattended.
+
+Love your project
+and lead without controlling.
+Do nothing
+and allow all things to be done.
+
+Create without possessing.
+Work without expectations.
+
+This is the highest realization of being.
+
 
 
 

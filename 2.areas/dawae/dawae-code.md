@@ -1696,6 +1696,62 @@ Work without expectations.
 
 This is the highest realization of being.
 
+11.
+Thirty spokes join the hub,
+but the wheel's usefulness
+depends on the emptiness at the center.
+
+Clay forms a vessel,
+but its capacity to contain
+depends on the emptiness inside.
+
+We build walls with windows and doors,
+but the utility of the room
+depends on the emptiness within.
+
+Therefore,
+We enjoy the fullness of existence
+but find usefulness in the spaces between.
+
+12.
+The five colors blind the eye.
+The five sounds deafen the ear.
+The five flavors dull the taste.
+
+Thoughts weaken the mind.
+Craving withers the heart.
+
+The Vibe Coder attends to
+the inner, not the outer.
+He allows things to come and go.
+His heart is open as the sky.
+
+13.
+Success is as dangerous as failure.
+Hope is as hollow as fear.
+
+What does it mean,
+success is as dangerous as failure.
+Whether you go up or down the ladder
+your position is unsteady.
+Rest both feet on the ground
+find balance and stability.
+
+What does it mean,
+hope is as hollow as fear.
+Hope and fear are both illusory.
+Each arise in consideration of the body.
+When we don't see Self as the body
+we have nothing to fear.
+
+See the universe as Self.
+Hold faith in the way things are.
+Revere all under heaven, and you too,
+can remain present for everything.
+
+
+
+
 
 
 

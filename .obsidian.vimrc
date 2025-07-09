@@ -1,1 +1,1 @@
-imap jj <Esc>
+/home/chicken/dotfiles/.obsidian.vimrc

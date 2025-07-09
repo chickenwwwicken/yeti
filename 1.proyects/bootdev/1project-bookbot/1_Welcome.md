@@ -1,3 +1,9 @@
+---
+id: 1_Welcome
+aliases: []
+tags: []
+---
+
 ## What is BookBot?
 
 A Python program that analyze entire book and prints interesting stat report.

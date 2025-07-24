@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b0e7e5b2410ae6db","type":"file","file":"1.proyects/kmrd/media/lttt-pink-fire.jpg","x":-136,"y":651,"width":321,"height":400},
+		{"id":"f6a37808ad2c3b65","type":"file","file":"1.proyects/kmrd/media/lttt-pink-lines.jpg","x":-482,"y":1080,"width":320,"height":400},
+		{"id":"45bc92e9d427d995","type":"file","file":"1.proyects/kmrd/media/lttt-cute-hearts-blue.jpg","x":-135,"y":1080,"width":320,"height":400},
+		{"id":"340ecbdda07f6359","type":"file","file":"1.proyects/kmrd/media/lttt-collection.jpg","x":-880,"y":651,"width":375,"height":400},
+		{"id":"7070c93a8cab5657","type":"file","file":"1.proyects/kmrd/media/checkered-blue-black.jpg","x":-136,"y":1520,"width":400,"height":400},
+		{"id":"b3a957602a8d9b38","type":"file","file":"1.proyects/kmrd/media/big-front-text-pink.jpg","x":-136,"y":1949,"width":400,"height":400},
+		{"id":"c1f0e0aeb532e3e3","type":"file","file":"1.proyects/kmrd/media/cute-pattern-round-front.jpg","x":-510,"y":1520,"width":320,"height":400},
+		{"id":"cbe4c9d1ac1dc072","type":"file","file":"1.proyects/kmrd/media/cartoonish-dope-freehand.png","x":-510,"y":1949,"width":320,"height":400},
+		{"id":"36a41b13d00ac780","type":"file","file":"1.proyects/kmrd/media/kid-super-dinho-pattern.jpg","x":-880,"y":1080,"width":337,"height":400},
+		{"id":"9ec0c2b8bada40ca","type":"file","file":"1.proyects/kmrd/media/gradients-yellow-blue.jpg","x":-880,"y":1509,"width":300,"height":400},
+		{"id":"e74070befdc6bba4","type":"file","file":"1.proyects/kmrd/media/lttt-blue-lines 1.jpg","x":200,"y":651,"width":320,"height":400},
+		{"id":"1ffcb5c5b3a5af6c","type":"file","file":"1.proyects/kmrd/media/lttt-green-lines.jpg","x":-482,"y":651,"width":320,"height":400},
+		{"id":"2809d2cc6c75f7d5","type":"file","file":"1.proyects/kmrd/media/lttt-light-blue-lines.jpg","x":200,"y":1080,"width":320,"height":400},
+		{"id":"b83bc27660870725","type":"file","file":"1.proyects/kmrd/media/lttt-collection2.jpg","x":-825,"y":200,"width":320,"height":400}
+	],
+	"edges":[]
+}

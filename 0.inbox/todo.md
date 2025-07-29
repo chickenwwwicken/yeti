@@ -4,12 +4,9 @@ aliases: []
 tags: []
 ---
 ## today
-- [x] cocina
-- [x] ropa
 - [ ] ai agent
 - [ ] logos variaciones
 - [ ] dise;os en las mangas
-- [ ] 
 
 ## projects
 
@@ -20,6 +17,7 @@ tags: []
 - [ ] dise;os en las mangas
 - [ ] domino -> usb
 
+
 ### punkrecords
 
 ##### punkrecords infraestructur
@@ -27,7 +25,7 @@ tags: []
 - [ ] mail fragmentation / password manager
 - [ ] punkrecords vault fragmentation
 - [ ] label usbs for inventory
-- [ ] password manager
+- [ ] password manages
 - [ ] backups
 - [ ] new phone who dis
 
